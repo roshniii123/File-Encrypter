@@ -1,4 +1,4 @@
-CI/CD webhook push test
+CI/CD webhook test
 
 # File-Encrypter
 GUI program for Encrypting/Decrypting files using AES 256 bit 
